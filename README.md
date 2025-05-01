@@ -1,7 +1,7 @@
 ## Hi, I'm Adhira 👋
 
 - 📫 Email:  adhiradeogade@gmail.com
-- 📫 Online: adhira.dev
+- 📫 Online: [adhira.dev](adhira.dev)
 
 <!--
 
